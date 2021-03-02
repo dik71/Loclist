@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="localization, for developers">
+    <meta name="description" content="A localization and translation management
+     platform for agile teams.">
+    <title>Localist</title>
+    <!-- font-family: 'Roboto', sans-serif; -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/Normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!--  -->
+    <header>
+        <div class="page page_header">
+
+            <nav>
+                <div class="logo"><a href="#"><img src="image/logo1.svg" alt="logo"></a></div>
+
+                <div class="dropdown item-menu">
+                    <a href="">Product</a>
+                    <img src="image/Vector 1.png" alt="">
+                    <div class="dropdown-content">
+                        <a href="#">For developers</a>
+                        <a href="#">For managers</a>
+                        <a href="#">For translators</a>
+                        <a href="#">For designers</a>
+                        <a href="#">Integrations</a>
+                        <a href="#">Security</a>
+                    </div>
+                </div>
+
+                <div class="dropdown item-menu">
+                    <a href="">Features</a>
+                    <img src="image/Vector 1.png" alt="">
+                    <div class="dropdown-content">
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
+                    </div>
+                </div>
+
+                <div class="item-menu">
+                    <a href="#">Pricing</a>
+                    
+                </div>
+
+                <div class="item-menu">
+                    <a href="#">Case studies</a>
+                    
+                </div>
+
+                <div class="dropdown item-menu">
+                    <a href="#">Resources</a>
+                    <img src="image/Vector 1.png" alt="">
+                    <div class="dropdown-content">
+                        <a href="#">Link 5</a>
+                        <a href="#">Link 6</a>
+                        <a href="#">Link 7</a>
+                    </div>
+                </div>
+                
+
+
+            </nav>
+
+            <div class="btn">
+                <span class="white"><a href="#">Log in</a></span>
+                <span class="orange"><a href="#">Try it free</a></span>
+                            
+            </div>
+
+        </div>
+    </header>
+    <main>
+        <div class="page page1">
+            <div class="container">
+                <h1>Ускорьте локализацию от кода до доставки</h1>
+                <p>Платформа управления локализацией и переводом для гибких команд. Воспользуйтесь автоматизацией, прозрачностью рабочего процесса и быстрой реализацией проектов.</p>
+                <div class="btn">
+                    
+                    <span class="orange"><a href="#">Try it free</a></span>
+                    <span class="white"><a href="#">Book a demo</a></span>
+                                
+                </div>
+                <p class="text_min">Попробуйте все функции в течение 14 дней · Кредитная карта не требуется</p>
+
+            </div>
+            <div class="img_page1"><img src="image/page1-img.svg" alt="image"></div>
+        </div>
+        <div class="page2">
+            
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+
+
+</body>
+
+</html>
